@@ -1,0 +1,1 @@
+export default function NotFound(){return <main id="main" className="not-found container"><span className="eyebrow">404 / СТРАНИЦА НЕ НАЙДЕНА</span><h1>Вернёмся к задаче.</h1><p>Такой страницы нет. Выберите оборудование в каталоге или отправьте запрос.</p><a href="/catalog" className="button primary">Открыть каталог →</a></main>;}
