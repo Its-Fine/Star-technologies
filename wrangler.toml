@@ -1,0 +1,8 @@
+name = "star-technologies"
+compatibility_date = "2026-05-15"
+compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "site-creator-d1"
+database_id = "ecb12e80-4b95-42c4-8880-4c2927f576ba"
