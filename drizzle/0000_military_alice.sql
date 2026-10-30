@@ -15,6 +15,7 @@ CREATE TABLE `leads` (
 	`attachment_name` text,
 	`attachment_type` text,
 	`attachment_size` integer,
+	`attachment_data` text,
 	`crm_status` text DEFAULT 'disabled' NOT NULL
 );
 --> statement-breakpoint
